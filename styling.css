@@ -1,8 +1,8 @@
 /*styling.css*/
 /*Add a cover background picture for the featured part with a fixed height*/
 .jumbotron{
-    background: url(https://freenaturestock.com/wp-content/uploads/freenaturestock-324.jpeg);
-    background-size: 100% 100%;
+    background: url(https://freenaturestock.com/wp-content/uploads/freenaturestock-324.jpeg) center center;
+    background-size: cover;
     height: 600px;
 }
 
